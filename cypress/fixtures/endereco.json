@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "Maria",
+        "sobrenome": "Lúcia",
+        "empresa": "EBAC",
+        "pais": "Brasil",
+        "endereco": "Av. Brasil",
+        "numero": "7000",
+        "cidade": "Araçatuba",
+        "estado": "São Paulo",
+        "cep": "16057-560",
+        "telefone": "18123456789",
+        "email": "teste@teste.com"
+    },
+    {
+        "nome": "Felipe",
+        "sobrenome": "Barreto",
+        "empresa": "EBAC",
+        "pais": "Brasil",
+        "endereco": "Av. Bahia",
+        "numero": "77",
+        "cidade": "Araçatuba",
+        "estado": "São Paulo",
+        "cep": "16057-123",
+        "telefone": "18589874523",
+        "email": "teste@ebacteste.com"
+    },
+    {
+        "nome": "João",
+        "sobrenome": "Pedro",
+        "empresa": "EBAC",
+        "pais": "Brasil",
+        "endereco": "Av. São Pauo",
+        "numero": "30",
+        "cidade": "Araçatuba",
+        "estado": "São Paulo",
+        "cep": "16057-000",
+        "telefone": "18987654321",
+        "email": "teste@testeebac.com"
+    }
+
+]
